@@ -1,0 +1,2 @@
+class MasonryController < ApplicationController
+end
